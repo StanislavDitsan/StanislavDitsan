@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Below, you'll find 
 
 ## 🌐 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stanislav--ditsan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanislav-ditsan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ditsanstas/?hl=en)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@silly.girl.guide?_t=8fj799STN9V&_r=1)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsapIm4MZyebvNcVDzLaaJQ)
