@@ -26,9 +26,8 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanislavditsan&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavditsan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanislavditsan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavditsan&layout=compact&theme=tokyonight)
 
 ---
 
