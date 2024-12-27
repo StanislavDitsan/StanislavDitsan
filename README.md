@@ -26,6 +26,9 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 [![GG](https://img.shields.io/badge/gabriellagallagher.com-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gabriellagallagher.com/)
 
+[![Coffee](https://img.shields.io/badge/Coffee-le--peche--mignon.vercel.app-6f4f1f?style=for-the-badge&logo=coffee&logoColor=white)](https://le-peche-mignon.vercel.app/)
+
+
 
 
 ## 📈 Stats
