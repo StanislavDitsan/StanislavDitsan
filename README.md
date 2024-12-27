@@ -21,8 +21,10 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 ---
 
 ## 🚀 Latest Project 
-
+https://www.gabriellagallagher.com/
 [![Blog](https://img.shields.io/badge/Blog-silly--girl--guide.vercel.app-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://silly-girl-guide.vercel.app/)
+[![Beautician](https://img.shields.io/badge/https://www.gabriellagallagher.com/?style=for-the-badge&logo=vercel&logoColor=red)]([https://www.gabriellagallagher.com](https://www.gabriellagallagher.com/))
+
 
 ## 📈 Stats
 
