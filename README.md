@@ -28,6 +28,7 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 [![Café](https://img.shields.io/badge/Café-le--peche--mignon.vercel.app-ff69b4?style=for-the-badge&logo=Cafée&logoColor=white)](https://le-peche-mignon.vercel.app/)
 
+[![Flowers](https://img.shields.io/badge/Flowers-bunch.com.ua-ff69b4?style=for-the-badge&logo=flower&logoColor=white)](https://www.bunch.com.ua/)
 
 
 
