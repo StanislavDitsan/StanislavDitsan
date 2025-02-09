@@ -22,13 +22,16 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 ## 🚀 Latest Project 
 
-[![Blog](https://img.shields.io/badge/Blog-silly--girl--guide.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://silly-girl-guide.vercel.app/)
+[![Instagram Grid Preview](https://img.shields.io/badge/Instagram%20Grid%20Preview-instagram--grid--preview.vercel.app-9c4dcc?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram-grid-preview.vercel.app/)
 
-[![GG](https://img.shields.io/badge/GG-gabriellagallagher.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gabriellagallagher.com/)
+[![Blog](https://img.shields.io/badge/Blog-silly--girl--guide-0077b5?style=for-the-badge&logo=blogger&logoColor=white)](https://www.silly-girl.co/)
 
-[![Café](https://img.shields.io/badge/Coffee-le--peche--mignon.vercel.app-000000?style=for-the-badge&logo=coffee&logoColor=white)](https://le-peche-mignon.vercel.app/)
+[![GG](https://img.shields.io/badge/GG-gabriellagallagher.com-f06292?style=for-the-badge&logo=cosmetics&logoColor=white)](https://www.gabriellagallagher.com/)
 
-[![Flowers](https://img.shields.io/badge/Flowers-bunch.com.ua-000000?style=for-the-badge&logo=flower&logoColor=white)](https://www.bunch.com.ua/)
+[![Café](https://img.shields.io/badge/Coffee-le--peche--mignon.vercel.app-6f4f37?style=for-the-badge&logo=coffee&logoColor=white)](https://le-peche-mignon.vercel.app/)
+
+[![Flowers](https://img.shields.io/badge/Flowers-bunch.com.ua-32a852?style=for-the-badge&logo=flower&logoColor=white)](https://www.bunch.com.ua/)
+
 
 
 ## 📈 Stats
