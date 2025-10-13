@@ -22,7 +22,7 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 ## 🚀 Latest Project 
 
-[![Instagram Grid Preview](https://img.shields.io/badge/Instagram%20Grid%20Preview-instagram--grid--preview.vercel.app-9c4dcc?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram-grid-preview.vercel.app/)
+[![Instagram Grid Preview](https://img.shields.io/badge/Instagram%20Grid%20Preview-instagram--grid--preview.vercel.app-9c4dcc?style=for-the-badge&logo=instagram&logoColor=white)](https://www.gridpeek.com/)
 
 [![Blog](https://img.shields.io/badge/Blog-silly--girl--guide-0077b5?style=for-the-badge&logo=blogger&logoColor=white)](https://www.silly-girl.co/)
 
