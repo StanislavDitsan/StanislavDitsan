@@ -37,6 +37,7 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 ## 📈 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stanislavditsan&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=stanislavditsan&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
