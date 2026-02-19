@@ -36,8 +36,9 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanislavditsan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavditsan&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stanislavditsan&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=stanislavditsan&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
