@@ -20,6 +20,26 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 ---
 
+---
+
+## 🎓 Professional Certifications
+
+<p align="center">
+
+<a href="https://www.credential.net/8d13c806-18cd-414f-bd13-1716df786dd7#acc.mlxIf6M5" target="_blank">
+  <img src="./assets/ucd-fullstack.png" width="750" alt="UCD Professional Academy Full Stack Software Development Certificate"/>
+</a>
+
+<br><br>
+
+<a href="https://www.credential.net/38b85709-ff10-48f9-900d-38ef1ab354f8#acc.c4eiZYgU" target="_blank">
+  <img src="./assets/codeinstitute-diploma.png" width="750" alt="Code Institute Diploma in Full Stack Software Development"/>
+</a>
+
+</p>
+
+---
+
 ## 🚀 Latest Project 
 
 [![Instagram Grid Preview](https://img.shields.io/badge/Instagram%20Grid%20Preview-gridpeek.com-9c4dcc?style=for-the-badge&logo=instagram&logoColor=white)](https://www.gridpeek.com/)
