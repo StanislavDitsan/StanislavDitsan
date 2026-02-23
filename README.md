@@ -24,15 +24,11 @@ In my free time, I enjoy creating content for social media platforms like TikTok
 
 <p align="center">
   <a href="https://www.credential.net/8d13c806-18cd-414f-bd13-1716df786dd7#acc.mlxIf6M5">
-    <img src="./assets/ucd-fullstack.png" width="320" alt="UCD Professional Academy Full Stack Software Development Certificate"/>
+    <img src="./assets/ucd-fullstack.png" width="300" alt="UCD Professional Academy Full Stack Software Development Certificate"/>
   </a>
-</p>
-
-<br>
-
-<p align="center">
+  
   <a href="https://www.credential.net/38b85709-ff10-48f9-900d-38ef1ab354f8#acc.c4eiZYgU">
-    <img src="./assets/codeinstitute-diploma.png" width="320" alt="Code Institute Diploma in Full Stack Software Development"/>
+    <img src="./assets/codeinstitute-diploma.png" width="300" alt="Code Institute Diploma in Full Stack Software Development"/>
   </a>
 </p>
 
