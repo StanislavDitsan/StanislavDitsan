@@ -46,16 +46,12 @@ Based in Barcelona. If you've got a project, feel free to reach out.
 
 ---
 
-## 🚀 Latest Project 
-
+## 🚀 Latest Project
+[![STR Tax Loophole](https://img.shields.io/badge/STR%20Tax%20Loophole-thestrtaxloophole.com-2563eb?style=for-the-badge&logo=house&logoColor=white)](https://www.thestrtaxloophole.com/)
 [![Instagram Grid Preview](https://img.shields.io/badge/Instagram%20Grid%20Preview-gridpeek.com-9c4dcc?style=for-the-badge&logo=instagram&logoColor=white)](https://www.gridpeek.com/)
-
 [![Blog](https://img.shields.io/badge/Blog-silly--girl--guide-0077b5?style=for-the-badge&logo=blogger&logoColor=white)](https://www.silly-girl.co/)
-
 [![GG](https://img.shields.io/badge/GG-gabriellagallagher.com-f06292?style=for-the-badge&logo=cosmetics&logoColor=white)](https://www.gabriellagallagher.com/)
-
 [![Café](https://img.shields.io/badge/Coffee-www.lepechemignon.co.uk-6f4f37?style=for-the-badge&logo=coffee&logoColor=white)](https://www.lepechemignon.co.uk/)
-
 [![Flowers](https://img.shields.io/badge/Flowers-bunch.com.ua-32a852?style=for-the-badge&logo=flower&logoColor=white)](https://www.bunch.com.ua/)
 
 ## 💻 Languages & Tools
