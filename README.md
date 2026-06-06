@@ -1,12 +1,30 @@
-# Hi there 👋 
-
-Welcome to my GitHub profile! I'm thrilled to have you here. Below, you'll find links to my various social media accounts and personal website. Feel free to connect with me and explore my content!
-
 ## 💼 About Me
 
-I am a motivated and versatile professional with a background in physical education and personnel management. While my previous experiences have been fulfilling, I have long been drawn to the rapidly-evolving field of software development. As a result, I pursued a professional degree in Full-Stack Software Development, where I am honing my talents in web development, programming, and other cutting-edge technologies.
+# Hey, I'm Stan
 
-In my free time, I enjoy creating content for social media platforms like TikTok, composing music, and producing drone videos for my YouTube channel. I'm a former member of Ukraine's Olympic rowing team, have achieved multiple Ukrainian championships, and am a Candidate for Master of Sports.
+Freelance web developer and technical specialist. I work with founders and small teams on the technical layer that makes websites perform as a product.
+
+## What I do
+
+**Web development** — SaaS-style design and builds, front-end to deployment. Clean, fast, and built to convert.
+
+**SEO infrastructure** — Schema markup, canonical URLs, GSC/GA4 setup, sitemaps, metadata, and structured data. Not just technical ticks on a checklist — set up properly so it actually works.
+
+**Affiliate & partner tracking** — UTM attribution, partner landing pages, and conversion tracking tied back to your main site and app.
+
+**Integrations** — Analytics, tracking pixels, webhooks, third-party tools. If it needs to be wired together, I can do it.
+
+## Day job
+
+Technical Specialist at **ExoClick**, one of the largest ad networks in the world.
+
+## Outside work
+
+Former member of Ukraine's Olympic rowing team. Multiple national championship titles. Candidate for Master of Sports. These days I spend that energy on music production, drone videography, and content creation.
+
+## Open to freelance
+
+Based in Barcelona. If you've got a project, feel free to reach out.
 
 ---
 
