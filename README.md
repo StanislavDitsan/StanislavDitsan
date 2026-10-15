@@ -2,7 +2,7 @@
 
 # Hey, I'm Stan
 
-Freelance web developer and technical specialist. I work with founders and small teams on the technical layer that makes websites perform as a product.
+Freelance web developer and technical specialist. I work with founders and teams on the technical layer that makes websites perform as a product.
 
 ## What I do
 
